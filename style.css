@@ -1,0 +1,26 @@
+#start-btn
+{
+    width: 70%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:10px solid rgb(219, 223, 19);
+}
+#logo_img
+{
+    width: 175px;
+    border-radius: 125px;
+}
+#textbox
+{
+    width: 50px;
+}
+
+#h1 
+{
+    color: aqua;
+    border: cadetblue;
+}
+
